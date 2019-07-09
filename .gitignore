@@ -22,3 +22,5 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 portal-*.tar
 
+# VS Code Elixir configuration
+.elixir_ls/
